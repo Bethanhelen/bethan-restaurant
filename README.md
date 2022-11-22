@@ -1,2 +1,2 @@
-# bethan-restaurant
-an international cuisine restaurant
+# sushi-restaurant
+https://bethanhelen.github.io/sushi-restaurant/
